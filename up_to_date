@@ -1,4 +1,5 @@
-$ git clone <repo>
+$ git clone 
+$ git pull
 $ touch test
 $ git add test
 $ git commit -m "Initial commit"
